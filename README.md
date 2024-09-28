@@ -24,8 +24,8 @@ Release Information
 This software may be copied in whole or part for any use whatever as long as it includes the author information, given credit for said code.
 
 INSTALLATION
-cd TX-Power-Blast-4.1
-chmod +x *.sh
-sudo ./install.sh
+- cd TX-Power-Blast-4.1
+- chmod +x *.sh
+- sudo ./install.sh
 
 PLEASE NOTE: This script is setup for wlan1 and wlan2 respectively.
