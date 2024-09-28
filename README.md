@@ -3,7 +3,7 @@ Boost TX Power for Wifi
 
 Version 4.1 of Tx Power Blast with NEW enhanced networking features
 
-Description
+Description:
 This is version 4.1 of TX Power Blast written in the bash shell. This program will boost your transmit power of your chosen WiFi antenna to 30db and open all channels by changing the region of the antenna from US to Guyana, a country that allows more operational channels.
 
 Features
