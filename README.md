@@ -29,3 +29,5 @@ INSTALLATION
 - sudo ./install.sh
 
 PLEASE NOTE: This script is setup for wlan1 and wlan2 respectively.
+
+THIS IS ORIGINAL SOFTWARE - You may modify or use this software as you like, all I ask is to be given credit as the original author.
