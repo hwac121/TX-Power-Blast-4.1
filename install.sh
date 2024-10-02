@@ -4,8 +4,10 @@
 #                     DETAILS                  #
 #==============================================#
 
+
 # TITLE: Tx Power Blast v4.1
-# AUTHOR: Majik Cat Security
+# AUTHOR: RJ Levesque, Jr. - Majik Cat Security
+# eMail: hwac121@torbox.onion
 # DATE: August 18, 2024
 # GITHUB: https://github.com/hwac121
 
